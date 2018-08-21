@@ -21,4 +21,4 @@ POST [project_url]/api/shorturl/new - body (urlencoded) :  url=https://www.googl
 http://forum.freecodecamp.com
 
 live on Glitch [https://time-me.glitch.me](https://me-mini.glitch.me)  
-code on Github [https://github.com/christianpujol/fcc-timestamp](https://github.com/christianpujol/fcc-url-short)
+code on Github [https://github.com/christianpujol/fcc-url-short](https://github.com/christianpujol/fcc-url-short)
